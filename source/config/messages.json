@@ -1,0 +1,8 @@
+{
+  "ready": "${bot_name} is online!",
+  "appliedStatus": "Applied Status Successfully",
+  "databaseConnected": "Connected to Database in {time}",
+  "noDatabaseConnectionString": "No database string was provided. Skipping...",
+  "databaseError": "Database failed to connect. Please check your connection string!",
+  "runningServices": "Running service handler"
+}
